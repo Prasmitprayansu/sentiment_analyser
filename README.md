@@ -2,8 +2,6 @@
 
 A production-ready sentiment analysis classifier trained on 50,000 real tweets. Compares multiple machine learning approaches from Naive Bayes to neural networks.
 
-**[Live Demo](#-quick-start) | [GitHub](https://github.com/yourname/sentiment-analysis) | [Portfolio](https://yourname.com)**
-
 ---
 
 ## 📊 Project Overview
@@ -69,40 +67,6 @@ python sentiment_neural_network.py
 streamlit run app.py
 
 # Open: http://localhost:8501
-```
-
----
-
-## 📂 Project Structure
-
-```
-sentiment-analysis/
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-│
-├── data/
-│   └── (Download from Kaggle link above)
-│
-├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb  # Data visualization & stats
-│   ├── 02_baseline_models.ipynb       # Naive Bayes + Logistic Regression
-│   └── 03_error_analysis.ipynb        # Understanding model mistakes
-│
-├── src/
-│   ├── preprocess.py                  # Text cleaning functions
-│   ├── train.py                       # Training pipeline
-│   ├── evaluate.py                    # Metrics & visualizations
-│   └── models.py                      # Model definitions
-│
-├── sentiment_baseline.py               # Quick start script
-├── sentiment_neural_network.py         # Neural network training
-├── app.py                             # Streamlit web app
-│
-└── results/
-    ├── confusion_matrices.png         # Model comparisons
-    ├── training_curves.png            # Loss curves
-    ├── model_comparison.csv           # Results table
-    └── nn_confusion_matrix.png        # Best model evaluation
 ```
 
 ---
@@ -317,12 +281,11 @@ MIT License - feel free to use for learning/portfolio purposes
 
 ## 👤 About Me
 
-**[Your Name]**
+**Prasmit Prayansu**
 - B.Tech CS Student (Third Year)
 - Interested in NLP & Machine Learning
-- GitHub: https://github.com/yourname
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: yourname@example.com
+- GitHub: https://github.com/Prasmitprayansu
+- LinkedIn: www.linkedin.com/in/prasmit-prayansu
 
 ---
 
@@ -343,15 +306,8 @@ MIT License - feel free to use for learning/portfolio purposes
 
 ---
 
-**Last Updated:** January 2024  
-**Status:** ✅ Complete & Maintained
-
----
-
 <div align="center">
 
 ### ⭐ Found this helpful? Star the repo!
-
-[View on GitHub](#) | [Try Live Demo](#) | [Report Issues](#)
 
 </div>
